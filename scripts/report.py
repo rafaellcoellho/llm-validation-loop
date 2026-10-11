@@ -50,7 +50,6 @@ def main():
 
     for theme in THEMES:
         _plot_accuracy(summary, theme)
-        _plot_outcomes(summary, theme)
 
     print(f"✅ summary and figures written to {SUMMARY_PATH.parent}")
 
@@ -173,59 +172,6 @@ def _finish_accuracy_axes(axes, colors, keys):
     axes.yaxis.grid(True, color=colors["grid"], linewidth=0.8)
     axes.set_axisbelow(True)
     axes.set_ylabel("Tally sheets fully right (%)", color=colors["muted"], fontsize=9)
-    _legend(axes, colors, ncol=2)
-
-
-def _plot_outcomes(summary, theme):
-    figure, axes, colors = _styled_axes(theme, (8, 3.2))
-    keys = [f"{s}/{f}" for s, f in GROUPS][::-1]
-    lefts = [0.0] * len(keys)
-
-    for index, (outcome, label) in enumerate(OUTCOMES):
-        widths = [_outcome_share(summary[key], outcome) for key in keys]
-        bars = axes.barh(
-            keys,
-            widths,
-            left=lefts,
-            color=colors["series"][index],
-            edgecolor=colors["surface"],
-            linewidth=1.5,
-        )
-        bars.set_label(label)
-        _label_segments(axes, bars, colors)
-        lefts = [left + width for left, width in zip(lefts, widths)]
-
-    _finish_outcome_axes(axes, colors, keys)
-    _save(figure, "outcomes", theme)
-
-
-def _outcome_share(group, outcome):
-    return group["outcomes"][outcome] / max(group["tally_sheets"], 1) * 100
-
-
-def _label_segments(axes, bars, colors):
-    for bar in bars:
-        if bar.get_width() < 6:
-            continue
-        axes.text(
-            bar.get_x() + bar.get_width() / 2,
-            bar.get_y() + bar.get_height() / 2,
-            f"{bar.get_width():.0f}%",
-            ha="center",
-            va="center",
-            fontsize=8.5,
-            color=colors["surface"],
-            fontweight="bold",
-        )
-
-
-def _finish_outcome_axes(axes, colors, keys):
-    axes.set_yticks(range(len(keys)))
-    axes.set_yticklabels(
-        [GROUP_LABELS[tuple(k.split("/"))].replace("\n", " · ") for k in keys]
-    )
-    axes.set_xlim(0, 100)
-    axes.set_xticks([])
     _legend(axes, colors, ncol=2)
 
 

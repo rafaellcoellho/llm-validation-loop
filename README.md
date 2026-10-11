@@ -3,6 +3,11 @@
 An LLM extracts data from a document, code checks the result, and failed checks
 go back to the LLM for another try.
 
+Written up in a blog post:
+[English](https://rafaellcoellho.com/en/2026/10/11/the-llm-reads-the-code-checks/)
+·
+[Português](https://rafaellcoellho.com/2026/10/11/o-llm-le-o-codigo-confere.html).
+
 ```mermaid
 flowchart LR
     S[/"Source<br>(image or OCR text)"/] --> E["LLM extracts<br>JSON"]

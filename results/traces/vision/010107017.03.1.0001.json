@@ -1,0 +1,851 @@
+{
+  "acta_id": "010107017.03.1.0001",
+  "family": "low_res",
+  "image": "033257_079095_0208Acta0200.jpg",
+  "qr": "010107017.03.1.0001!104,5,3,1,1,2,0,3,3,0,0,1,7,1,3,0,0,0,0,2,1,0,0,0,0,0,0,0,4,0,3,0,1,7,16,306,1,2!0!0",
+  "source": "vision",
+  "model": "gemini-3.5-flash-lite",
+  "source_text": null,
+  "passed": true,
+  "attempts": [
+    {
+      "round": 1,
+      "output": {
+        "registered_voters": 0,
+        "voters_on_machine": {
+          "digits": 0,
+          "words": ""
+        },
+        "parties": [
+          {
+            "party": "PSUV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MUD",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "AP",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "AD",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "COPEI",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MOVEV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MR",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "BR",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "PV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "PCV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "UPV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "TUPAMARO",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "PPT",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MEP",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "PODEMOS",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MSV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "ORA",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "EV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "PL",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "APC",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "PIEDRA",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MIN UNIDAD",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "OPA",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MPJ",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "CONDE",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "SPV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "PVV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "VU",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "CENTRADOS",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MAS",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "UNE",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MPV",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MPE",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "EL CAMBIO",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "ALIANZA DEL LAPIZ",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "AREPA",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "UNTC",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          },
+          {
+            "party": "MPBC",
+            "votes": {
+              "digits": 0,
+              "words": ""
+            }
+          }
+        ],
+        "summary": {
+          "total": {
+            "digits": 0,
+            "words": ""
+          },
+          "valid": {
+            "digits": 0,
+            "words": ""
+          },
+          "null": {
+            "digits": 0,
+            "words": ""
+          },
+          "blank": {
+            "digits": 0,
+            "words": ""
+          }
+        }
+      },
+      "violations": [
+        {
+          "rule": "party_order",
+          "message": "Expected the 38 party rows in ballot order (PSUV, PCV, TUPAMARO, PPT, MSV, PODEMOS, MEP, APC, ORA, UPV, EV, PVV, PFV, AD, COPEI, MR, BR, DDP, UNE, EL CAMBIO, PV, VU, UVV, MPJ, AP, MOVEV, CMC, FV, ALIANZA DEL LAPIZ, MIN UNIDAD, SPV, VPA, AREPA, UNTC, MPV, MUD, CENTRADOS, CONDE), got 38 rows: PSUV, MUD, AP, AD, COPEI, MOVEV, MR, BR, PV, PCV, UPV, TUPAMARO, PPT, MEP, PODEMOS, MSV, ORA, EV, PL, APC, PIEDRA, MIN UNIDAD, OPA, MPJ, CONDE, SPV, PVV, VU, CENTRADOS, MAS, UNE, MPV, MPE, EL CAMBIO, ALIANZA DEL LAPIZ, AREPA, UNTC, MPBC."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "En la maquina de votacion: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PSUV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MUD: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "AP: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "AD: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "COPEI: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MOVEV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MR: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "BR: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PCV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "UPV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "TUPAMARO: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PPT: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MEP: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PODEMOS: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MSV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "ORA: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "EV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PL: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "APC: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PIEDRA: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MIN UNIDAD: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "OPA: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MPJ: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "CONDE: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "SPV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PVV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "VU: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "CENTRADOS: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MAS: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "UNE: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MPV: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MPE: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "EL CAMBIO: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "ALIANZA DEL LAPIZ: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "AREPA: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "UNTC: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "MPBC: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "Votos: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "Votos validos: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "Votos nulos: '' is not a list of Spanish digit words."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "Votos vacios: '' is not a list of Spanish digit words."
+        }
+      ],
+      "usage": {
+        "input_tokens": 3707,
+        "output_tokens": 1595,
+        "thinking_tokens": 0
+      },
+      "score": {
+        "exact": false,
+        "wrong_fields": [
+          "PSUV",
+          "PCV",
+          "TUPAMARO",
+          "PPT",
+          "MSV",
+          "PODEMOS",
+          "APC",
+          "ORA",
+          "PVV",
+          "PFV",
+          "AD",
+          "COPEI",
+          "EL CAMBIO",
+          "PV",
+          "ALIANZA DEL LAPIZ",
+          "SPV",
+          "AREPA",
+          "UNTC",
+          "MPV",
+          "MUD",
+          "CENTRADOS",
+          "CONDE",
+          "total",
+          "valid"
+        ]
+      }
+    },
+    {
+      "round": 2,
+      "output": {
+        "registered_voters": 0,
+        "voters_on_machine": {
+          "digits": 0,
+          "words": "Cero"
+        },
+        "parties": [
+          {
+            "party": "PSUV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PCV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "TUPAMARO",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PPT",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MSV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PODEMOS",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MEP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "APC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "ORA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "UPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "EV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PVV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PFV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "AD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "COPEI",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MR",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "BR",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "DDP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "UNE",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "EL CAMBIO",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "VU",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "UVV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MPJ",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "AP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MOVEV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "CMC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "FV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "ALIANZA DEL LAPIZ",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MIN UNIDAD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "SPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "VPA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "AREPA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "UNTC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MUD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "CENTRADOS",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "CONDE",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          }
+        ],
+        "summary": {
+          "total": {
+            "digits": 0,
+            "words": "Cero"
+          },
+          "valid": {
+            "digits": 0,
+            "words": "Cero"
+          },
+          "null": {
+            "digits": 0,
+            "words": "Cero"
+          },
+          "blank": {
+            "digits": 0,
+            "words": "Cero"
+          }
+        }
+      },
+      "violations": [],
+      "usage": {
+        "input_tokens": 5146,
+        "output_tokens": 1724,
+        "thinking_tokens": 0
+      },
+      "score": {
+        "exact": false,
+        "wrong_fields": [
+          "PSUV",
+          "PCV",
+          "TUPAMARO",
+          "PPT",
+          "MSV",
+          "PODEMOS",
+          "APC",
+          "ORA",
+          "PVV",
+          "PFV",
+          "AD",
+          "COPEI",
+          "EL CAMBIO",
+          "PV",
+          "ALIANZA DEL LAPIZ",
+          "SPV",
+          "AREPA",
+          "UNTC",
+          "MPV",
+          "MUD",
+          "CENTRADOS",
+          "CONDE",
+          "total",
+          "valid"
+        ]
+      }
+    }
+  ]
+}

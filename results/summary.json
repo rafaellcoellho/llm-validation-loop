@@ -1,0 +1,74 @@
+{
+  "vision/high_res": {
+    "tally_sheets": 100,
+    "exact_first_round": 0.84,
+    "exact_final": 0.95,
+    "made_worse_by_loop": 0,
+    "outcomes": {
+      "right_first_try": 84,
+      "fixed_by_loop": 11,
+      "wrong_flagged": 4,
+      "wrong_unflagged": 1
+    },
+    "rounds": {
+      "1": 80,
+      "2": 14,
+      "3": 6
+    },
+    "cost_usd": 0.7843
+  },
+  "vision/low_res": {
+    "tally_sheets": 100,
+    "exact_first_round": 0.82,
+    "exact_final": 0.98,
+    "made_worse_by_loop": 0,
+    "outcomes": {
+      "right_first_try": 82,
+      "fixed_by_loop": 16,
+      "wrong_flagged": 1,
+      "wrong_unflagged": 1
+    },
+    "rounds": {
+      "1": 80,
+      "2": 17,
+      "3": 3
+    },
+    "cost_usd": 0.7686
+  },
+  "ocr/high_res": {
+    "tally_sheets": 100,
+    "exact_first_round": 0.22,
+    "exact_final": 0.53,
+    "made_worse_by_loop": 0,
+    "outcomes": {
+      "right_first_try": 22,
+      "fixed_by_loop": 31,
+      "wrong_flagged": 34,
+      "wrong_unflagged": 13
+    },
+    "rounds": {
+      "1": 13,
+      "2": 38,
+      "3": 49
+    },
+    "cost_usd": 1.3453
+  },
+  "ocr/low_res": {
+    "tally_sheets": 100,
+    "exact_first_round": 0.41,
+    "exact_final": 0.75,
+    "made_worse_by_loop": 0,
+    "outcomes": {
+      "right_first_try": 41,
+      "fixed_by_loop": 34,
+      "wrong_flagged": 18,
+      "wrong_unflagged": 7
+    },
+    "rounds": {
+      "1": 31,
+      "2": 34,
+      "3": 35
+    },
+    "cost_usd": 1.1695
+  }
+}

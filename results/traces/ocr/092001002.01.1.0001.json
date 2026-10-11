@@ -1,0 +1,655 @@
+{
+  "acta_id": "092001002.01.1.0001",
+  "family": "high_res",
+  "image": "AG8A009373_062502_2024-07-29-0001.jpg",
+  "qr": "092001002.01.1.0001!196,0,2,0,0,1,0,0,2,0,0,3,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,283,1,1!0!0",
+  "source": "ocr",
+  "model": "gemini-3.5-flash-lite",
+  "source_text": "PRESIDENTA O\nPRESIDÉNTE DE LA\nREPUBLICA\nBOLIVARIANA DE\nVENEZUELA\nELECCIÓN PRESIDENCIAL 2024\nPals VENEZUELA\nEstado EDO. FALCON\nMunicipio MP. JACURA\nParroquia PQ. JACURA\nESCUELA BOLIVARIANA CUEPARO\nCASERIO CUEPARO DERECHA\nCALLE PRINCIPAI IZTXJERDACALLE\nPRiNCIPAL. FRENTE CALLE\nPRINCIPAL DE CUEPARO AL LADO\nBODEGA SR PAZ CASA\n092001002\n927 Glectores\nantes  NRO.  Letras\nméquira de  809  Gero, Cinco, Cero, Seia\nkán\ncuadero the  506  Cero, Canco, Caro, Seis\nlán\nSigia Codigo  YMAI  Letrus\nCOLAS MADURO\nPSUV  289  198  Cro, Lna, Hueva, Beis\nPCV  9  0  Cero, Cero, Cero, Caro\nTUPAMARD  $31  2  Cero, Cero, Cero, Doe\nPPT  276  0  Cero, Cero, Cero, Cero\nMSV  1017  0  Cero, Cero, Cero, Cero\nPODEMOS  514  4  Care, Pero, Cors, Unc\nMEP  5  Q  Cero, Cera, Caro, Ceru\nAPC  218  0  Cero, Cero, Caro, Cero\nORA  906  2  Cero, Cero, Cera, Dos\nUPY  613  0  Cera, Caro, Cero, Cero\nA3  1089  0  Cero, Cero, Dero, Caro\nPWV  1090  3  Cero, Cero, Cero, Tres\nPFV  1093  1  Caro Caro Cam Line\nJIS MARTINEZ\nAD  4  0  Caro, Cero, Cera, Cera\nCOPB  2  0  Cero, Cero, Cero, Cero\nMR  1066  0  Cero, Cero, Gero, Cero\n1066  0  Cero, Cero, Cara, Cero\nDOP  1091  1  Caro, Cero, Cero, Uno\nLINE  1095  0  Caro. Caro Cern, Cere\nVIER BERTUCCI\nEL CAMBIO  104  0  Cero, Cero, Cero, Cero\nOSE BRITO\nPY  1063  0  Caro, Coro, Caro, Cars\nYU  898  0  Cero, Cero, Cero, Coro\nUV4  1366  0  Cero, Cero, Caro, Caro\nMPJ  468  n  C, Cero, Cera, Ceie\nNTONIO ECARRI\nAP  8t4  0  Cero, Cara, Cero, Coro\nMOVEV  878  0  Cera, Cero, Caro, Caro\nCMC  1060  0  Cero, Caro, Cero, Cers\nAd  1062  0  Cero, Cere, Cero, Caro\nALIANZA DEL  1051  0  Caro, Caro, Cero, Caro\nLAPIZ\nMINUNDAD  102  n  Ce, Core, Cere, So\nLAUDIO FERMIN\n8PV 1049  0  Cero, Cero, Cera, Cero\nANIEL CEBALLOS\nVPA  23  0  Cero, Caro, Cero, Caro\nAREPA  0  Cero, Caro, Dero, Cero\nDMUNDO GONZALEZ\nLRNTC  4C  1  Geru, Cero, Cero, Slete\nMPV  1089  8  Cero, Cero, Cero, cha\nMUD  1076  Cero. Dos, Ocho, Tres\nNRIQUE MARQUEZ\nCENTRADOS  1073  1  Cero, Cero, Cero, Una\nENJAMIN RAUSSEO\nCONDE  1052  1  Cero, Cero, Cero, Uno\nResumen de votos\n00  Cero, Cinco, Cero, Sels\ntos validos  606  Curo, Cinco, Caro, Sels\ntos püirclales  0  Cere, Cwro, Caro, Cero\nrtos nulos  0  Ciro, Cero, Cero, Cere\ntod vacios  0  Cera, Care, Cero, Cero\nSclonet valdat  Cero, Cinico, Care, Sel\nSclanes ruIL  0  Cero, Cero, Cera, Care\nconee vacins  0  Cero. Cero, Cero, Cero\nbservaciones:\ne levanta la presente acta la cual firman en\neñal de conformidad.\nMienmbros de la mesa sectoral\nresidente\nombre: KATHERIN DEL CARMEN COLINA\n:2130840B\nma:\nKathePrn\nSecretario\nNombre: YSA ANDREINA CAMACHO HENRIQUE\nCl: 30714450\nirma:\nYsamadho\nMiembro A\nVombre: FLORIANNYS OLIVARES\nCl:2828的956",
+  "passed": true,
+  "attempts": [
+    {
+      "round": 1,
+      "output": {
+        "registered_voters": 927,
+        "voters_on_machine": {
+          "digits": 505,
+          "words": "Cero, Cinco, Cero, Seis"
+        },
+        "parties": [
+          {
+            "party": "PSUV",
+            "votes": {
+              "digits": 198,
+              "words": "Cero, Uno, Nueve, Seis"
+            }
+          },
+          {
+            "party": "PCV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "TUPAMARO",
+            "votes": {
+              "digits": 2,
+              "words": "Cero, Cero, Cero, Dos"
+            }
+          },
+          {
+            "party": "PPT",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MSV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "PODEMOS",
+            "votes": {
+              "digits": 4,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          },
+          {
+            "party": "MEP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "APC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "ORA",
+            "votes": {
+              "digits": 2,
+              "words": "Cero, Cero, Cero, Dos"
+            }
+          },
+          {
+            "party": "UPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "EV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "PVV",
+            "votes": {
+              "digits": 3,
+              "words": "Cero, Cero, Cero, Tres"
+            }
+          },
+          {
+            "party": "PFV",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          },
+          {
+            "party": "AD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "COPEI",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MR",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "BR",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "DDP",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          },
+          {
+            "party": "UNE",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "EL CAMBIO",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "PV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "VU",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "UVV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MPJ",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "AP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MOVEV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "CMC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "FV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "ALIANZA DEL LAPIZ",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MIN UNIDAD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "SPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "VPA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "AREPA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "UNTC",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Siete"
+            }
+          },
+          {
+            "party": "MPV",
+            "votes": {
+              "digits": 8,
+              "words": "Cero, Cero, Cero, Ocho"
+            }
+          },
+          {
+            "party": "MUD",
+            "votes": {
+              "digits": 283,
+              "words": "Cero, Dos, Ocho, Tres"
+            }
+          },
+          {
+            "party": "CENTRADOS",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          },
+          {
+            "party": "CONDE",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          }
+        ],
+        "summary": {
+          "total": {
+            "digits": 505,
+            "words": "Cero, Cinco, Cero, Seis"
+          },
+          "valid": {
+            "digits": 505,
+            "words": "Cero, Cinco, Cero, Seis"
+          },
+          "null": {
+            "digits": 0,
+            "words": "Cero, Cero, Cero, Cero"
+          },
+          "blank": {
+            "digits": 0,
+            "words": "Cero, Cero, Cero, Cero"
+          }
+        }
+      },
+      "violations": [
+        {
+          "rule": "digits_match_words",
+          "message": "En la maquina de votacion: digits say 505, but the words 'Cero, Cinco, Cero, Seis' say 506."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PSUV: digits say 198, but the words 'Cero, Uno, Nueve, Seis' say 196."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "PODEMOS: digits say 4, but the words 'Cero, Cero, Cero, Uno' say 1."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "UNTC: digits say 1, but the words 'Cero, Cero, Cero, Siete' say 7."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "Votos: digits say 505, but the words 'Cero, Cinco, Cero, Seis' say 506."
+        },
+        {
+          "rule": "digits_match_words",
+          "message": "Votos validos: digits say 505, but the words 'Cero, Cinco, Cero, Seis' say 506."
+        }
+      ],
+      "usage": {
+        "input_tokens": 1783,
+        "output_tokens": 2107,
+        "thinking_tokens": 0
+      },
+      "score": {
+        "exact": false,
+        "wrong_fields": [
+          "PSUV",
+          "PODEMOS",
+          "UNTC",
+          "total",
+          "valid"
+        ]
+      }
+    },
+    {
+      "round": 2,
+      "output": {
+        "registered_voters": 927,
+        "voters_on_machine": {
+          "digits": 506,
+          "words": "Cero, Cinco, Cero, Seis"
+        },
+        "parties": [
+          {
+            "party": "PSUV",
+            "votes": {
+              "digits": 196,
+              "words": "Cero, Uno, Nueve, Seis"
+            }
+          },
+          {
+            "party": "PCV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "TUPAMARO",
+            "votes": {
+              "digits": 2,
+              "words": "Cero, Cero, Cero, Dos"
+            }
+          },
+          {
+            "party": "PPT",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MSV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "PODEMOS",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          },
+          {
+            "party": "MEP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "APC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "ORA",
+            "votes": {
+              "digits": 2,
+              "words": "Cero, Cero, Cero, Dos"
+            }
+          },
+          {
+            "party": "UPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "EV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "PVV",
+            "votes": {
+              "digits": 3,
+              "words": "Cero, Cero, Cero, Tres"
+            }
+          },
+          {
+            "party": "PFV",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          },
+          {
+            "party": "AD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "COPEI",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MR",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "BR",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "DDP",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          },
+          {
+            "party": "UNE",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "EL CAMBIO",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "PV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "VU",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "UVV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MPJ",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "AP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MOVEV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "CMC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "FV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "ALIANZA DEL LAPIZ",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "MIN UNIDAD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "SPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "VPA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "AREPA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero, Cero, Cero, Cero"
+            }
+          },
+          {
+            "party": "UNTC",
+            "votes": {
+              "digits": 7,
+              "words": "Cero, Cero, Cero, Siete"
+            }
+          },
+          {
+            "party": "MPV",
+            "votes": {
+              "digits": 8,
+              "words": "Cero, Cero, Cero, Ocho"
+            }
+          },
+          {
+            "party": "MUD",
+            "votes": {
+              "digits": 283,
+              "words": "Cero, Dos, Ocho, Tres"
+            }
+          },
+          {
+            "party": "CENTRADOS",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          },
+          {
+            "party": "CONDE",
+            "votes": {
+              "digits": 1,
+              "words": "Cero, Cero, Cero, Uno"
+            }
+          }
+        ],
+        "summary": {
+          "total": {
+            "digits": 506,
+            "words": "Cero, Cinco, Cero, Seis"
+          },
+          "valid": {
+            "digits": 506,
+            "words": "Cero, Cinco, Cero, Seis"
+          },
+          "null": {
+            "digits": 0,
+            "words": "Cero, Cero, Cero, Cero"
+          },
+          "blank": {
+            "digits": 0,
+            "words": "Cero, Cero, Cero, Cero"
+          }
+        }
+      },
+      "violations": [],
+      "usage": {
+        "input_tokens": 3480,
+        "output_tokens": 1395,
+        "thinking_tokens": 0
+      },
+      "score": {
+        "exact": true,
+        "wrong_fields": []
+      }
+    }
+  ]
+}

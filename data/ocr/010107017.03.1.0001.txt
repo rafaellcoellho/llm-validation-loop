@@ -1,0 +1,19 @@
+Firma:
+CI:14156445
+Nombre: YAMILE BRITO
+Miembro A
+ehle
+Testigo A
+Nombre: CLARIBEL DAVID
+CI:12333575
+Firma:
+Claribel
+Testigo B
+Nombre: JOSE GAVIDIA
+Cl:8589248
+Firma:
+Hawet
+Operador
+Nombre: EDWIN GUTIERREZ
+Cl:14032539
+Firma:

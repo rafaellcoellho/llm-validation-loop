@@ -1,0 +1,330 @@
+{
+  "acta_id": "070906020.01.1.0001",
+  "family": "high_res",
+  "image": "AG8ACO4551_168514_2024-07-29-0001.jpg",
+  "qr": "070906020.01.1.0001!29,0,0,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,181,0,1!0!0",
+  "source": "ocr",
+  "model": "gemini-3.5-flash-lite",
+  "source_text": "Acta de escrutinia  070900120 01.1.0001  B018e6o62175  2907/2024 05:21:02 PM  PRESIDENTA O  PRESIDENTE DE LA  REPUBLICA  BOLIVARIANA DE  VEZNULA  ELECCIÓN PRESDENCW. 2024  PIZENEE  Eslado EDO. CARABCBO  Muno MP VATEHCA  asor MS (Ou ientaus,)  UNDAD EDUCATIMA, NSTITUTO SAN  LRB DOC  AVEHICA 10G CERPCHACALLE 139  DAGONA. A FARMATODC EDIFICIO  D000900  L  Sana, Lara Cd, Huana  Dero, Cara Cera, Lins  Cers. Cero, Cara Dero  Cars. Dero, Cara Caro  Cers. Cero, Caro, Care  Gere care, Dwen Cere  cime. Cirs Cars. Una  CHa CA CA SHrE  cira Care, caa dire  ang n    Cors Cans, Dara, Cers  Cara Sare, Cara, Cars  Gwro, Cere. Gero, Cers  CHO. SITN. CHO. Gera  Gwo. Gwra Cero. Ozs  Cwo. Care Dere. Cwra  Cerny Coes Cam, Goro  Dana Cera tina, Tere  Cano, Cara :are, ripe  cira, Cara Cara, Cwe  cire tira Cue, Dere  Cars, Gero, Cere, Gera  Fare, Gere Cers, Cero  Dare, Gero, Care, Gero  Cere, Came Sers, Dwo  Cero, Oero, Cere. Oero  Dero, Cara Cene, Oaro  Cara Care, Dora, Oche  Care, Cany, Cars, Rteis  Cams, Cars Cem, Una  Lin, Cara Cin  Cara, Dea, Ta ti  resseniu aeto Sa eual fiman on\nNRO.  2  ADURO  Z3N  1005  10:  TUCCI  IPDI  RMN  TCL  19c0  ARQUEZ  291  RAUSSEO  02  immádad.  BTO  231W2N00 370",
+  "passed": true,
+  "attempts": [
+    {
+      "round": 1,
+      "output": {
+        "registered_voters": 0,
+        "voters_on_machine": {
+          "digits": 0,
+          "words": "Cero"
+        },
+        "parties": [
+          {
+            "party": "PSUV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PCV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "TUPAMARO",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PPT",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MSV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PODEMOS",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MEP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "APC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "ORA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "UPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "EV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PVV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PFV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "AD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "COPEI",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MR",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "BR",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "DDP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "UNE",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "EL CAMBIO",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "PV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "VU",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "UVV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MPJ",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "AP",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MOVEV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "CMC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "FV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "ALIANZA DEL LAPIZ",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MIN UNIDAD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "SPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "VPA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "AREPA",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "UNTC",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MPV",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "MUD",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "CENTRADOS",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          },
+          {
+            "party": "CONDE",
+            "votes": {
+              "digits": 0,
+              "words": "Cero"
+            }
+          }
+        ],
+        "summary": {
+          "total": {
+            "digits": 0,
+            "words": "Cero"
+          },
+          "valid": {
+            "digits": 0,
+            "words": "Cero"
+          },
+          "null": {
+            "digits": 0,
+            "words": "Cero"
+          },
+          "blank": {
+            "digits": 0,
+            "words": "Cero"
+          }
+        }
+      },
+      "violations": [],
+      "usage": {
+        "input_tokens": 1042,
+        "output_tokens": 1724,
+        "thinking_tokens": 0
+      },
+      "score": {
+        "exact": false,
+        "wrong_fields": [
+          "PSUV",
+          "PPT",
+          "ORA",
+          "PVV",
+          "EL CAMBIO",
+          "UNTC",
+          "MPV",
+          "MUD",
+          "CONDE",
+          "total",
+          "valid"
+        ]
+      }
+    }
+  ]
+}
